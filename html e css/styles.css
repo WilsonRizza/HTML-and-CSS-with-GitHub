@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.paragrafo {
+    color: blueviolet;
+    background-color: aqua;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+ /*  Colors pallet blue: #331ac0; red: #c21111;*/ 
+
+ .frontImage {
+    width:"800px";
+    height:"400px";
+    background-size: 100px;
+    background-color: white;
+    position: relative;
+    top: auto;
+    background-position: center;
+   /* background-size: contain; */
+}
+
+.buttons {
+    background-color: rgb(150, 150, 248);
+    position: relative;
+}
